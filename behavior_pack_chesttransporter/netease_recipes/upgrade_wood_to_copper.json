@@ -1,0 +1,27 @@
+{
+  "minecraft:recipe_shaped": {
+    "result": {
+      "item": "chesttransporter:chesttransporter_copper"
+    }, 
+    "pattern": [
+      " C ", 
+      "COC", 
+      " C "
+    ], 
+    "description": {
+      "identifier": "chesttransporter:upgrade_wood_to_copper"
+    }, 
+    "key": {
+      "C": {
+        "item": "minecraft:copper_ingot"
+      }, 
+      "O": {
+        "item": "chesttransporter:chesttransporter_wood"
+      }
+    }, 
+    "tags": [
+      "crafting_table"
+    ]
+  }, 
+  "format_version": "1.12"
+}

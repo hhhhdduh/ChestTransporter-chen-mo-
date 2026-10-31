@@ -1,0 +1,27 @@
+{
+  "minecraft:recipe_shaped": {
+    "result": {
+      "item": "chesttransporter:chesttransporter_iron"
+    }, 
+    "pattern": [
+      " I ", 
+      "IOI", 
+      " I "
+    ], 
+    "description": {
+      "identifier": "chesttransporter:upgrade_copper_to_iron"
+    }, 
+    "key": {
+      "I": {
+        "item": "minecraft:iron_ingot"
+      }, 
+      "O": {
+        "item": "chesttransporter:chesttransporter_copper"
+      }
+    }, 
+    "tags": [
+      "crafting_table"
+    ]
+  }, 
+  "format_version": "1.12"
+}

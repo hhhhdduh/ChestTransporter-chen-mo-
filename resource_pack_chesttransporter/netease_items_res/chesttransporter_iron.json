@@ -1,0 +1,11 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "chesttransporter:chesttransporter_iron"
+    },
+    "components": {
+      "minecraft:icon": "chesttransporter_iron"
+    }
+  }
+}

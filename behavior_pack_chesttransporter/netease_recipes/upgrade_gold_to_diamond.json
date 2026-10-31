@@ -1,0 +1,25 @@
+{
+  "minecraft:recipe_shaped": {
+    "result": {
+      "item": "chesttransporter:chesttransporter_diamond"
+    }, 
+    "pattern": [
+      "DOD"
+    ], 
+    "description": {
+      "identifier": "chesttransporter:upgrade_gold_to_diamond"
+    }, 
+    "key": {
+      "D": {
+        "item": "minecraft:diamond"
+      }, 
+      "O": {
+        "item": "chesttransporter:chesttransporter_gold"
+      }
+    }, 
+    "tags": [
+      "crafting_table"
+    ]
+  }, 
+  "format_version": "1.12"
+}

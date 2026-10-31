@@ -1,0 +1,27 @@
+{
+  "minecraft:recipe_shaped": {
+    "result": {
+      "item": "chesttransporter:chesttransporter_gold"
+    }, 
+    "pattern": [
+      " G ", 
+      "GOG", 
+      " G "
+    ], 
+    "description": {
+      "identifier": "chesttransporter:upgrade_iron_to_gold"
+    }, 
+    "key": {
+      "O": {
+        "item": "chesttransporter:chesttransporter_iron"
+      }, 
+      "G": {
+        "item": "minecraft:gold_ingot"
+      }
+    }, 
+    "tags": [
+      "crafting_table"
+    ]
+  }, 
+  "format_version": "1.12"
+}

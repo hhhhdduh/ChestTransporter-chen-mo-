@@ -1,0 +1,27 @@
+{
+  "minecraft:recipe_shaped": {
+    "result": {
+      "item": "chesttransporter:chesttransporter_obsidian"
+    }, 
+    "pattern": [
+      "S S", 
+      "SSS", 
+      " M "
+    ], 
+    "description": {
+      "identifier": "chesttransporter:craft_obsidian"
+    }, 
+    "key": {
+      "S": {
+        "item": "minecraft:stick"
+      }, 
+      "M": {
+        "item": "minecraft:obsidian"
+      }
+    }, 
+    "tags": [
+      "crafting_table"
+    ]
+  }, 
+  "format_version": "1.12"
+}

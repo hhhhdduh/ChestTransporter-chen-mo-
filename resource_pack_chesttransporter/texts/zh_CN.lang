@@ -1,0 +1,14 @@
+pack.name=搬箱器
+pack.description=把箱子连内容一起搬走
+item.chesttransporter:chesttransporter_wood.name=木质搬箱器
+item.chesttransporter:chesttransporter_wood_full.name=木质搬箱器（装着东西）
+item.chesttransporter:chesttransporter_copper.name=铜质搬箱器
+item.chesttransporter:chesttransporter_copper_full.name=铜质搬箱器（装着东西）
+item.chesttransporter:chesttransporter_iron.name=铁质搬箱器
+item.chesttransporter:chesttransporter_iron_full.name=铁质搬箱器（装着东西）
+item.chesttransporter:chesttransporter_gold.name=金质搬箱器
+item.chesttransporter:chesttransporter_gold_full.name=金质搬箱器（装着东西）
+item.chesttransporter:chesttransporter_diamond.name=钻石质搬箱器
+item.chesttransporter:chesttransporter_diamond_full.name=钻石质搬箱器（装着东西）
+item.chesttransporter:chesttransporter_obsidian.name=黑曜石质搬箱器
+item.chesttransporter:chesttransporter_obsidian_full.name=黑曜石质搬箱器（装着东西）

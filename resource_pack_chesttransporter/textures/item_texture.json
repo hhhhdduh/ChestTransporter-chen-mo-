@@ -1,0 +1,42 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "chesttransporter_wood": {
+      "textures": "textures/items/chesttransporter_wood"
+    },
+    "chesttransporter_wood_full": {
+      "textures": "textures/items/chesttransporter_wood_full"
+    },
+    "chesttransporter_copper": {
+      "textures": "textures/items/chesttransporter_copper"
+    },
+    "chesttransporter_copper_full": {
+      "textures": "textures/items/chesttransporter_copper_full"
+    },
+    "chesttransporter_iron": {
+      "textures": "textures/items/chesttransporter_iron"
+    },
+    "chesttransporter_iron_full": {
+      "textures": "textures/items/chesttransporter_iron_full"
+    },
+    "chesttransporter_gold": {
+      "textures": "textures/items/chesttransporter_gold"
+    },
+    "chesttransporter_gold_full": {
+      "textures": "textures/items/chesttransporter_gold_full"
+    },
+    "chesttransporter_diamond": {
+      "textures": "textures/items/chesttransporter_diamond"
+    },
+    "chesttransporter_diamond_full": {
+      "textures": "textures/items/chesttransporter_diamond_full"
+    },
+    "chesttransporter_obsidian": {
+      "textures": "textures/items/chesttransporter_obsidian"
+    },
+    "chesttransporter_obsidian_full": {
+      "textures": "textures/items/chesttransporter_obsidian_full"
+    }
+  }
+}

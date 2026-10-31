@@ -1,0 +1,19 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "chesttransporter:chesttransporter_copper_full",
+      "category": "none"
+    },
+    "components": {
+      "minecraft:icon": "chesttransporter_copper_full",
+      "minecraft:max_stack_size": 1,
+      "minecraft:max_damage": 20,
+      "minecraft:hand_equipped": true,
+      "minecraft:enchantable": {
+        "slot": "all",
+        "value": 10
+      }
+    }
+  }
+}

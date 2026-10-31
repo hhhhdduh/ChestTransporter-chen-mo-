@@ -1,0 +1,24 @@
+{
+  "minecraft:recipe_shaped": {
+    "result": {
+      "item": "chesttransporter:chesttransporter_wood"
+    }, 
+    "pattern": [
+      "S S", 
+      "SSS", 
+      " S "
+    ], 
+    "description": {
+      "identifier": "chesttransporter:craft_wood"
+    }, 
+    "key": {
+      "S": {
+        "item": "minecraft:stick"
+      }
+    }, 
+    "tags": [
+      "crafting_table"
+    ]
+  }, 
+  "format_version": "1.12"
+}

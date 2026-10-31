@@ -1,0 +1,11 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "chesttransporter:chesttransporter_obsidian_full"
+    },
+    "components": {
+      "minecraft:icon": "chesttransporter_obsidian_full"
+    }
+  }
+}

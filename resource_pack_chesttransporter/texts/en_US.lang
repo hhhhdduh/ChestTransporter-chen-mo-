@@ -1,0 +1,14 @@
+pack.name=Chest Transporter
+pack.description=Pick up containers with their contents.
+item.chesttransporter:chesttransporter_wood.name=Wooden Chest Transporter
+item.chesttransporter:chesttransporter_wood_full.name=Wooden Chest Transporter (Loaded)
+item.chesttransporter:chesttransporter_copper.name=Copper Chest Transporter
+item.chesttransporter:chesttransporter_copper_full.name=Copper Chest Transporter (Loaded)
+item.chesttransporter:chesttransporter_iron.name=Iron Chest Transporter
+item.chesttransporter:chesttransporter_iron_full.name=Iron Chest Transporter (Loaded)
+item.chesttransporter:chesttransporter_gold.name=Golden Chest Transporter
+item.chesttransporter:chesttransporter_gold_full.name=Golden Chest Transporter (Loaded)
+item.chesttransporter:chesttransporter_diamond.name=Diamond Chest Transporter
+item.chesttransporter:chesttransporter_diamond_full.name=Diamond Chest Transporter (Loaded)
+item.chesttransporter:chesttransporter_obsidian.name=Obsidian Chest Transporter
+item.chesttransporter:chesttransporter_obsidian_full.name=Obsidian Chest Transporter (Loaded)

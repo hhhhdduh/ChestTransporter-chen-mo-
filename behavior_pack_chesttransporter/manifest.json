@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Chest Transporter Behavior",
+    "description": "Netease port of ChestTransporter 1.12.2",
+    "uuid": "785d8b1b-dc9e-4745-92a4-db475e52f3ff",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      18,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "a51b9b88-e613-4ffa-aca3-9fc5d43953cb",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
